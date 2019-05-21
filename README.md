@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/cnr-isti-vclab/meshlab.svg?branch=master)](https://travis-ci.org/cnr-isti-vclab/meshlab)
 [![Build status](https://ci.appveyor.com/api/projects/status/bdxm2m4n5ud7vm47?svg=true)](https://ci.appveyor.com/project/cignoni/meshlab)
 
-This is the official repository for the sources and the binaries of MeshLab. 
+This is not the official repository for the sources and the binaries of MeshLab. 
+It is forked from the original repository and some changes were made so an updated macOS target could be built.
 
 MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes. The source is released under the GPL license.
 The system is aimed to help the processing of the typical not-so-small unstructured models arising in 3D scanning, providing a set of tools for editing, cleaning, healing, inspecting, rendering and converting this kind of meshes. 
